@@ -1,1 +1,2 @@
 texto modificado 1
+Nova linha adicionada.
